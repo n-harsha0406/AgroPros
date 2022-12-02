@@ -1,0 +1,86 @@
+.bg{ 
+    background: url(back.jpg) no-repeat center center fixed; 
+    background-color: burlywood;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-transform: capitalize;
+    
+    
+}
+.op
+{
+    font-size: large;
+    display: grid;
+    flex-direction: column;
+    margin: 70px ;
+    
+    
+
+}
+
+
+button
+{
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 500px;
+}
+.bg
+{
+    box-sizing: border-box;
+    border: 5px bold green;
+    
+}
+footer#submit{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+p#para{
+    font-size: 20px;
+    padding: 0px 150px;
+    
+}
+.container-nav
+{
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 10px 5px;
+    
+}
+a{
+    float: right;
+    font-family:Arial, Helvetica, sans-serif;
+    row-gap: 20px;
+    padding: 7px 5px;
+    margin: 5px 3px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: medium;
+    
+}
+nav{
+    
+    color: white;
+    font-size:20px;
+}
+a:hover
+{
+    color:green;
+    font-size: large;
+}
+.body
+{
+    padding: 20px 50px;
+}
+
+
